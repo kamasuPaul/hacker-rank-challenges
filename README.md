@@ -1,2 +1,4 @@
 # hacker-rank-challenges
-Coding challenges from the hacker rank 3 months interview preparation.
+Coding challenges from hacker rank.
+## why am doing these challenges?
+To keep fit, through out the year
